@@ -1,0 +1,21 @@
+department_id,department_name,division,department_head,department_email,location
+D001,Human Resources,Corporate,Neha Sharma,neha.sharma@company.com,New Delhi
+D002,Sales,Revenue,Rahul Verma,rahul.verma@company.com,Mumbai
+D003,Finance,Corporate,Priya Mehta,priya.mehta@company.com,Bengaluru
+D004,Information Technology,Technology,Arjun Kapoor,arjun.kapoor@company.com,Hyderabad
+D005,Marketing,Revenue,Ananya Singh,ananya.singh@company.com,Mumbai
+D006,Operations,Operations,Vikram Rao,vikram.rao@company.com,Pune
+D007,Customer Support,Operations,Pooja Nair,pooja.nair@company.com,Chennai
+D008,Legal,Corporate,Karan Malhotra,karan.malhotra@company.com,New Delhi
+D009,Procurement,Operations,Sneha Iyer,sneha.iyer@company.com,Pune
+D010,Research & Development,Technology,Rohit Joshi,rohit.joshi@company.com,Bengaluru
+D011,Quality Assurance,Technology,Meera Gupta,meera.gupta@company.com,Hyderabad
+D012,Administration,Corporate,Amit Sinha,amit.sinha@company.com,New Delhi
+D013,Logistics,Operations,Nitin Yadav,nitin.yadav@company.com,Gurugram
+D014,Product Management,Technology,Ishita Jain,ishita.jain@company.com,Bengaluru
+D015,Data & Analytics,Technology,Manish Tiwari,manish.tiwari@company.com,Pune
+D016,Security,Technology,Saurabh Mishra,saurabh.mishra@company.com,Hyderabad
+D017,Training & Development,Human Resources,Ritika Das,ritika.das@company.com,Kolkata
+D018,Business Development,Revenue,Aditya Khanna,aditya.khanna@company.com,Mumbai
+D019,Internal Audit,Finance,Deepak Bansal,deepak.bansal@company.com,New Delhi
+D020,Engineering,Technology,Shivam Patel,shivam.patel@company.com,Bengaluru
