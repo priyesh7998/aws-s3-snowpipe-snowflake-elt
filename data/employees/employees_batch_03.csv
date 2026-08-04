@@ -1,0 +1,2 @@
+employee_id,first_name,last_name,email,phone,department_id,job_title,hire_date,salary,manager_id,gender,date_of_birth,status,work_location
+E09000,Priyesh,kumaR,Pr@GmaiL.cOm,98-7654-3210,D004,data analyst,20226-08-20,55000,,m,25-09-2006,active,delhi

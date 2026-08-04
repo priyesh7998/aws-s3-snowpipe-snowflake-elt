@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,email,phone,department_id,job_title,hire_date,salary,manager_id,gender,date_of_birth,status,work_location
+E2001,Raj,Thakur,raj.thakur2001@company.com,+91-9876543210,D004,Software Engineer,2025-03-17,78500,E0142,M,1999-08-12,ACTIVE,Bengaluru
+E2002,Sneha,Kapoor,sneha.kapoor2002@company.com,+91-9123456780,D002,Sales Executive,2024-11-04,54200,E0067,F,2000-02-25,ACTIVE,Mumbai
+E2003,Mohit,Agarwal,,+91-9988776655,D003,Financial Analyst,2023-07-19,68500,E0215,M,1997-11-03,ACTIVE,New Delhi
+E2004,Kritika,Nair,kritika.nair2004@company.com,,D007,Customer Support Executive,2022-09-12,46500,E0318,F,1998-05-18,ON_LEAVE,Chennai
+E2005,Vikas,Mishra,vikas.mishra2005@company.com,+91-9012345678,D015,Data Analyst,2025-01-27,72000,E0098,M,2001-01-09,ACTIVE,Pune
+E2006,Riya,Jain,riya.jain2006@company.com,+91-9345678120,D005,Marketing Executive,2021-06-21,59800,E0124,F,1996-09-30,ACTIVE,Mumbai
+E2007,Deepak,Yadav,deepak.yadav2007@company.com,+91-9765432108,D006,Operations Executive,2020-02-10,51200,E0441,M,1995-04-22,TERMINATED,Gurugram
+E2008,Pallavi,Sharma,pallavi.sharma2008@company.com,+91-8899001122,D001,HR Executive,2024-04-15,57500,E0031,F,2000-12-14,ACTIVE,New Delhi
+E2009,Harsh,Verma,harsh.verma2009@company.com,+91-9555667788,D010,Research Engineer,2023-10-02,91500,,M,1994-07-06,ACTIVE,Bengaluru
+E2010,Nandini,Patel,,,D011,QA Engineer,2022-12-05,63500,E0276,F,1999-03-19,INACTIVE,Hyderabad
