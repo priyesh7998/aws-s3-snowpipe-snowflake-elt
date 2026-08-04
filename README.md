@@ -943,16 +943,6 @@ Therefore:
 
 ---
 
-# 📸 Suggested Screenshots
-
-For a better GitHub project presentation, screenshots can be added to a `screenshots/` folder.
-
-```markdown
-![S3 Bucket Structure]()
-```
-
----
-
 # ⚠️ Troubleshooting
 
 ## 1. File appears in Stage but not in Table
